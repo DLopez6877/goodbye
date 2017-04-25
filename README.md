@@ -6,9 +6,9 @@
 
 ## Description
 
-_This is a webpage that provides contact information and general information about Daniel Lopez. It also includes links to repositories of each of my projects created in class at Epicodus._
+_This is a website that says goodbye to the world in English, Spanish, Australian, and Canadian_
 
-## Setup/Installation Requirements
+## Installation Requirements
 
 * Copy GitHub pages link below and paste in browser
 * -or-
