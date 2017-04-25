@@ -11,14 +11,14 @@ _This is a webpage that provides contact information and general information abo
 ## Setup/Installation Requirements
 
 * Copy GitHub pages link below and paste in browser
-* or
-* clone repository
-* open "portfolio" directory
-* open index.html
+* -or-
+* Clone repository
+* Open "goodbye" directory
+* Open goodbye.html
 
 ## Link to GitHub Pages
 
-_DLopez6877.github.io/Portfolio_
+_DLopez6877.github.io/goodbye_
 
 ## Technologies Used
 
